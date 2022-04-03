@@ -19,3 +19,6 @@ The restaurants can be filtered based on the following attributes -
 
 ### Dataset
 * MongoDB - Sample_Restaurants
+
+### Screenshots
+![Main UI](https://user-images.githubusercontent.com/39586303/161432388-4155b7ce-56c7-4989-b2a6-b712fe634021.png)
